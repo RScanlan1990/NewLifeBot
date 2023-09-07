@@ -66,4 +66,4 @@ client.on('guildMemberAdd', member => {
     member.guild.channels.cache.get('1084794447407087746').send(`Welcome!`);
 });
     
-client.login('MTA5NTQwNTgzNTE3MTEzOTczNg.GUPdCo.asYtLv7wm1kfoeLi1DNaqJ2c-9_23nzNdN428M');
+client.login('');
